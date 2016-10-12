@@ -1,5 +1,5 @@
 {"amigos":[
-    {"name":"John", "hobby":"fifa", "age":"22", "address":"ramon corona 2515"},
-    {"name":"Julio", "hobby":"pistear", "age":"22", "address":"ramon corona 2515"},
-    {"name":"toms", "hobby":"viajar", "age":"22", "address":"ramon corona 2515"}
+    {"Nombre":"John", "Hobby":"fifa", "Edad":"22", "Telefono":"33234444","Direccion":"chutungo"},
+    {"Nombre":"Julio", "Hobby":"pistear", "Edad":"22", "Telefono":"3323344444" ,"Direccion":"ramon corona 2515"},
+    {"Nombre":"toms", "Hobby":"viajar", "Edad":"22", "Telefono":"332322233","Direccion":"ramon corona 2515"}
 ]}
