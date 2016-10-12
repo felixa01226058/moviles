@@ -1,5 +1,5 @@
 {"amigos":[
-    {"name":"John", "hobby":"fifa", age:"22", address:"ramon corona 2515"},
-    {"name":"Julio", "hobby":"pistear", age:"22", address:"ramon corona 2515"},
-    {"name":"toms", "hobby":"viajar", age:"22", address:"ramon corona 2515"}
+    {"name":"John", "hobby":"fifa", "age":"22", "address":"ramon corona 2515"},
+    {"name":"Julio", "hobby":"pistear", "age":"22", "address":"ramon corona 2515"},
+    {"name":"toms", "hobby":"viajar", "age":"22", "address":"ramon corona 2515"}
 ]}
