@@ -1,5 +1,6 @@
 {"amigos":[
     {"nombre":"John", "carrera":"isc","calificacion":"90"},
     {"nombre":"Julio", "carrera":"ite","calificacion":"95"},
-    {"nombre":"toms", "carrera":"isc","calificacion":"100"}
+    {"nombre":"toms", "carrera":"isc","calificacion":"100"},
+    {"nombre":"tomas", "carrera":"ic","calificacion":"100"}
 ]}
